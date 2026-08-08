@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "title": "Bai viet so mot", "author": "Nguyen Van A" },
+    { "id": 2, "title": "Huong dan hoc Lap Trinh", "author": "Tran Thi B" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Bai viet hay qua!", "postId": 1 },
+    { "id": 2, "body": "Cam on ban da chia se", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Ung dung cua toi"
+  }
+}
